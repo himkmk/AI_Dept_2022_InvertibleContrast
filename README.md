@@ -10,6 +10,8 @@ Get Ready
 pip install -r requirements.txt
 ```
 
+<img src="./figs/recon_2.png" height="276" width="360"> <img src="./figs/cont_2.png" height="276" width="360">
+
 
 Easy run
 ```
